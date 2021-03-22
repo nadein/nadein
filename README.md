@@ -1,6 +1,6 @@
 [![Social banner for nadein](https://raw.githubusercontent.com/nadein/nadein/main/assets/header-banner.png)](https://nadein.github.io)
 
-I'm Swift and Objective-C developer with 5+ years of experience and great passion in medical, AR, ML and hardware projects. Fond of problem solving and technical blogging. Also a professional sound engineer.
+# I'm Swift and Objective-C developer with 5+ years of experience and great passion in medical, AR, ML and hardware projects. Fond of problem solving and technical blogging. Also a professional sound engineer.
 
 <p align='center'>
   
@@ -19,20 +19,20 @@ I'm Swift and Objective-C developer with 5+ years of experience and great passio
   
 </p>
 
-#List of latest projects I’ve participated as iOS Developer
+# List of latest projects I’ve participated as iOS Developer
 
-[🩺 RxPortal](https://rxphoto.com/telehealth/)
+## [🩺 RxPortal](https://rxphoto.com/telehealth/)
 During the COVID-19 outbreak this telemedicine app helped to retain customers and provide a safe way to get a medical consultation to thousands of patients.
 
-[📸 RxPhoto](https://rxphoto.com)
+## [📸 RxPhoto](https://rxphoto.com)
 Objective-C clinical photography app rewritten entirely in Swift. With a new patient management features become an industry standard for dermatology, aesthetics, plastic surgery, vein treatment, medical spa and wound care fields.
 
-[👩🏻‍⚕️Kego](https://riseapps.co/cases/kego/)
+## [👩🏻‍⚕️Kego](https://riseapps.co/cases/kego/)
 Remote medical service with video and text chat, appointments, patient cards, and schedule management tools. Extra focus on HIPAA compliance and security.
 
-[🧁 Favocity](https://riseapps.co/cases/favocity/)
+## [🧁 Favocity](https://riseapps.co/cases/favocity/)
 Restaurant exploring app with legacy code which received refreshed design, new features, and improved stability and performance.
 
-[🌬️ AtmoScan ](https://riseapps.co/cases/atmoscan/)
+## [🌬️ AtmoScan ](https://riseapps.co/cases/atmoscan/)
 Weather app with AR, hazards alert, and navigation features.
 
