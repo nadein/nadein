@@ -23,6 +23,9 @@
 
 # List of latest projects I’ve participated as iOS Developer
 
+## [🥍 Attack Academy](https://theattackacademy.com/training-app/)
+A Pro-level lacrosse training app with video masterclasses, training programs, instructions, and interactive workouts.
+
 ## [🩺 RxPortal](https://rxphoto.com/telehealth/)
 During the COVID-19 outbreak this telemedicine app helped to retain customers and provide a safe way to get a medical consultation to thousands of patients.
 
