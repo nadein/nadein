@@ -1,6 +1,6 @@
 [![Social banner for nadein](https://raw.githubusercontent.com/nadein/nadein/main/assets/header-banner.png)](https://nadein.github.io)
 
-# I'm senior Swift and Objective-C developer with 5+ years of experience and great passion in medical, AR, ML, and SDK projects. Fond of problem solving and technical blogging. Also a professional sound engineer.
+# I'm senior Swift and Objective-C developer with 6+ years of experience and great passion in medical, AR, ML, and SDK projects. Fond of problem solving and technical blogging. Also a professional sound engineer.
 
 <p align='center'> 🔐 PGP key: https://github.com/nadein.gpg </p>
 
